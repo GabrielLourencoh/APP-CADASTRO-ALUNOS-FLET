@@ -66,6 +66,6 @@ O objetivo do projeto é simular a rotina de um instrutor de Muay Thai, permitin
     ```
 
 5. Execute o projeto:
-    ```base
+    ```bash
     python main.py
     ```
